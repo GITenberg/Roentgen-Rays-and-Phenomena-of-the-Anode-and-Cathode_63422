@@ -1,16 +1,21 @@
 _repo: Roentgen-Rays-and-Phenomena-of-the-Anode-and-Cathode_63422
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: Anthony, William A.
     gutenberg_agent_id: '52437'
     url: http://www.gutenberg.org/2009/agents/52437
+covers:
+- cover_type: archival
+  image_path: 63422-h/images/cover.jpg
 creator:
   author:
     agent_name: Thompson, Edward P.
     gutenberg_agent_id: '52436'
     url: http://www.gutenberg.org/2009/agents/52436
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63422#Roentgen-Rays-and-Phenomena-of-the-Anode-and-Cathode
 gutenberg_issued: '2020-10-09'
 gutenberg_type: Text
 identifiers:
